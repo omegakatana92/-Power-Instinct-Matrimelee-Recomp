@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Matrimelee
+Comment=Native static recompilation of Matrimelee (Neo Geo)
+Exec=matrimelee
+Icon=matrimelee
+Categories=Game;ArcadeGame;
+Terminal=false

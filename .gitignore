@@ -1,0 +1,24 @@
+# Build outputs
+build*/
+generated/
+entries*.txt
+
+# ROM data: never commit. Supply your own legally obtained dump.
+roms/
+roms-src/
+
+# Local test output (screenshots are SNK imagery; not distributed)
+shots/
+*.wav
+
+# Distribution artifacts
+dist/windows/*/
+dist/steamdeck/*.AppImage
+dist/steamdeck/LICENSES/
+*.zip
+
+# Editor / OS noise
+.vs/
+*.user
+*.suo
+Thumbs.db

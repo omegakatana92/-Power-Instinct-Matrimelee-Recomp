@@ -1,0 +1,8 @@
+# Matrimelee - insert a coin and enter the game.
+# Frame numbers are 59.19 Hz frames from power-on. The MVS eyecatcher
+# finishes around frame 600; the Matrimelee title appears around 2100-2400.
+2400 coin
+2500 start
+3200 start
+3600 a
+4000 start

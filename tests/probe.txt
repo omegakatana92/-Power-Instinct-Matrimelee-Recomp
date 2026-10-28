@@ -1,0 +1,12 @@
+# Matrimelee - probe the player-select and match start.
+2400 coin
+2500 start
+3600 start
+3800 a
+4000 start
+4200 a
+4400 start
+4600 a
+4800 start
+5000 a
+5200 start
